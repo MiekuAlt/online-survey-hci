@@ -141,6 +141,11 @@ h6, .h6 {
   }
 }
 
+.disclaimer {
+  padding-top: 15px;
+  font-style: italic;
+}
+
 .message-area {
   background: #fff;
   padding: 100px 0;
